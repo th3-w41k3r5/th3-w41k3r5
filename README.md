@@ -2,27 +2,6 @@
 
 🚀 Currently on a journey to master web development through free online resources, internet explorations, and the vast world of YouTube tutorials.
 
-💻 I have a solid foundation in:
-* HTML
-* CSS
-* JavaScript
-
-💡 Diving deeper into modern web development with frameworks and libraries like:
-* React
-* Next.js
-* Bootstrap
-* Tailwind CSS
-
-💾 Exploring the power of databases:
-* Supabase
-* MongoDB
-* Cloudflare D1
-
-☁️ Deploying my creations with ease using:
-* Netlify
-* Vercel
-* Cloudflare Workers
-
 ---
 
 ### Tech Stack
