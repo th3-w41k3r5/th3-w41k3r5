@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm PS WALKER!
 
-🚀 Currently on a journey to master web development through free online resources, internet explorations, and the vast world of YouTube tutorials.
+🚀 Currently on a journey to master web development through free online resources, internet explorations, and the vast world of YouTube tutorials. I'm also a huge Alan Walker fan :D
 
 ---
 
