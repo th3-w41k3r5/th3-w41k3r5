@@ -1,4 +1,4 @@
-# 👋 Hi, I'm PS WALKER
+# 👋 Hi, I'm Pritam
 
 🚀 Full-Stack Web Developer focused on building scalable, production-ready web applications.  
 I work across frontend, backend, databases, and cloud platforms with a strong interest in clean architecture and real-world systems.
