@@ -89,11 +89,11 @@
 
 <br/>
 
-<img src="./icons/snk.svg" alt="Contribution Snake Game"/>
+<img src="https://komarev.com/ghpvc/?username=th3-w41k3r5&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=th3-w41k3r5&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="./icons/snk.svg" alt="Contribution Snake Game"/>
 
 </div>
 
