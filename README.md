@@ -34,7 +34,7 @@
 
 ---
 
-<h2 align="center">⚡ Tech Stack</h2>
+<h2 align="center"><img src="./icons/bolt.svg" width="28" height="28" style="vertical-align: middle;" />  Tech Stack</h2>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,java,react,nextjs,tailwind,bootstrap,nodejs&perline=11&theme=dark" />
@@ -58,7 +58,7 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center"><img src="./icons/trophy.svg" width="28" height="28" style="vertical-align: middle;" /> GitHub Trophies</h2>
 
 <p align="center">
 <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=th3-w41k3r5&theme=alduin" width="90%" alt="GitHub Trophies"/>
@@ -66,16 +66,18 @@
 
 ---
 
-<h2 align="center"><img src="analytics.svg" width="28" height="28" style="vertical-align: middle;" />  GitHub Analytics</h2>
+<h2 align="center"><img src="./icons/analytics.svg" width="28" height="28" style="vertical-align: middle;" /> GitHub Analytics</h2>
+
+
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=th3-w41k3r5&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" width="48%" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://streak-stats.demolab.com?user=th3-w41k3r5&theme=github-dark-blue&hide_border=true&background=00000000" width="48%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=th3-w41k3r5&theme=github-dark-blue&hide_border=true&background=00000000" width="48%" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3-w41k3r5&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&langs_count=8" width="36%" alt="Top Languages"/>
+<img src="./profile/stats.svg" width="47.3%" alt="GitHub Stats"/>
+&nbsp;
+<img src="./profile/top-langs.svg" width="36%" alt="Top Languages"/>
 </p>
 
 ---
