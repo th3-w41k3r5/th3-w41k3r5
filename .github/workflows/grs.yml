@@ -43,7 +43,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: icons/snk.svg
+          outputs: icons/snk.svg?palette=github-dark
 
       - name: Commit cards
         run: |
