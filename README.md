@@ -15,7 +15,7 @@
 - 💻 I work across **frontend, backend, databases & cloud platforms** with a strong interest in clean architecture and real-world systems
 - ☁️ Currently diving deeper into **cloud-native architectures**, system design, and performance optimization
 - 🎧 Massive **Alan Walker** fan. Creativity and music fuel the tech journey
-- 📫 Feel free to reach out on **[GitHub](https://github.com/th3-w41k3r5)**
+- 📫 Feel free to reach out on **[Email](mailto:pritamwork1603@gmail.com)**
 
 </div>
 <br clear="both"/>
